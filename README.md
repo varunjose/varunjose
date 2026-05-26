@@ -79,14 +79,6 @@ I embed with customer teams to turn early conversational prototypes into **produ
       > > >
       > > > Applied deep learning to non-invasive medical diagnostics using facial depth maps. Feature engineering, augmentation pipeline, and cross-validation — submitted for academic publication.
       > > >
-      > > > ---
-      > > >
-      > > > ## 📈 GitHub Stats
-      > > >
-      > > > ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunjose&show_icons=true&theme=dark&hide_border=true&count_private=true)
-      > > > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunjose&layout=compact&theme=dark&hide_border=true)
-      > > >
-      > > > ---
       > > >
       > > > ## 🎓 Education
       > > >
