@@ -4,7 +4,6 @@
 *Shipping production AI on GCP & AWS — from prototype to enterprise scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--jose--madanu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-jose-madanu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-varunjose.github.io-blueviolet?style=flat&logo=github&logoColor=white)](https://varunjose.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-varunjosemadanu%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:varunjosemadanu@gmail.com)
 
 ---
