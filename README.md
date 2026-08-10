@@ -23,4 +23,4 @@ Right now, I'm spending most of my time on system design, AI/ML infrastructure, 
 
 ## 📫 LinkedIn
 
-[linkedin.com/in/varun-jose-madanu](https://linkedin.com/in/varun-jose-madanu)
+[linkedin.com/in/varun-jose-madan](https://linkedin.com/in/varun-jose-madan)
