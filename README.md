@@ -8,7 +8,7 @@ I like building systems end to end—from machine-learning models and APIs to re
 
 **Also comfortable in** TypeScript · React · PostgreSQL · Redis · Docker · AWS · GCP
 
-## 🧱 Projects I'm building
+## 🧱 Projects I've Built building
 
 **[Adaptive Real-Time Video Streaming](https://github.com/varunjose/Agentic-Real-Time-Streaming-System-RL-)** · C++ + OpenCV  
 A live H.264 video system with UDP packetization, frame reassembly, CRC32 validation, network feedback, and adaptive streaming controllers.
