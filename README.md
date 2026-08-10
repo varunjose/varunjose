@@ -1,26 +1,32 @@
-# Hi, I'm Varun 👋
+# Varun Jose
 
-Software engineer focused on AI/ML, distributed systems, and backend development. I recently completed a master's degree in computer science and am currently looking for software engineering and AI/ML roles in the US.
+> Turning models, packets, and product ideas into working software.
 
-I like building systems end to end—from machine-learning models and APIs to real-time networking—and understanding the trade-offs behind performance, reliability, and scale.
+I'm a software engineer with a master's degree in computer science. I work across AI/ML, backend engineering, and distributed systems—especially where the real challenge is making software measurable, reliable, and explainable.
 
-**Primary** Python · C++ · FastAPI · PyTorch · scikit-learn · SQL
+## Three systems. Three questions.
 
-**Also comfortable in** TypeScript · React · PostgreSQL · Redis · Docker · AWS · GCP
+### Can video adapt before the network breaks?
 
-## 🧱 Projects I've Built building
+**[Adaptive Real-Time Video Streaming](https://github.com/varunjose/Agentic-Real-Time-Streaming-System-RL-)**  
+A C++ and OpenCV streaming system that fragments H.264 video over UDP, rebuilds frames, validates them with CRC32, measures network quality, and adjusts transmission through adaptive controllers.
 
-**[Adaptive Real-Time Video Streaming](https://github.com/varunjose/Agentic-Real-Time-Streaming-System-RL-)** · C++ + OpenCV  
-A live H.264 video system with UDP packetization, frame reassembly, CRC32 validation, network feedback, and adaptive streaming controllers.
+### Can messages stay correct while clients multiply?
 
-**[Multi-Client Chat System](https://github.com/varunjose/Multi-Client-Chat-System-with-Error-Detection-Correction)** · C + Linux sockets  
-A concurrent TCP chat server with public and private messaging, CRC32 error detection, Hamming-code correction, and persistent history.
+**[Multi-Client Chat System](https://github.com/varunjose/Multi-Client-Chat-System-with-Error-Detection-Correction)**  
+A concurrent C/Linux chat server built with TCP sockets, private and public messaging, persistent history, CRC32 error detection, and Hamming-code correction.
 
-**[Sleep Apnea Screening Research](https://github.com/varunjose/SleepApneaPrediction)** · Python + TensorFlow  
-A research prototype exploring facial depth maps and VGG-19 transfer learning for non-invasive obstructive sleep apnea screening.
+### Can visual features support earlier health screening?
 
-Right now, I'm spending most of my time on system design, AI/ML infrastructure, and distributed systems—building practical projects and getting better at reasoning through reliability and scaling trade-offs.
+**[Sleep Apnea Screening Research](https://github.com/varunjose/SleepApneaPrediction)**  
+A TensorFlow research prototype using facial depth maps and VGG-19 transfer learning to explore non-invasive obstructive sleep apnea screening.
 
-## 📫 LinkedIn
+## Working set
 
-[linkedin.com/in/varun-jose-madan](https://linkedin.com/in/varun-jose-madan)
+`Python` · `C++` · `TypeScript` · `FastAPI` · `PyTorch` · `TensorFlow` · `PostgreSQL` · `Redis` · `Docker` · `AWS` · `GCP`
+
+## What's next
+
+Going deeper into system design, ML infrastructure, and production AI. Open to software engineering and AI/ML opportunities in the US.
+
+**[Let's connect →](https://linkedin.com/in/varun-jose-madan)**
