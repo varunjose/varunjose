@@ -29,4 +29,4 @@ A TensorFlow research prototype using facial depth maps and VGG-19 transfer lear
 
 Going deeper into system design, ML infrastructure, and production AI. Open to software engineering and AI/ML opportunities in the US.
 
-**[Let's connect →](https://linkedin.com/in/varun-jose-madan)**
+**[Let's connect →](https://www.linkedin.com/in/varun-jose-madan/)**
